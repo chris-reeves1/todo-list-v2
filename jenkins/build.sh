@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Build stage"
+echo "setup stage"
